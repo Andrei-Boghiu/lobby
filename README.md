@@ -1,2 +1,2 @@
 # lobby
-Personal Challenge: build a lobby
+Personal Challenge: build a lobby / work in progress
